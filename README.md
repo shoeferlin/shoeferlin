@@ -14,6 +14,14 @@
 <!-- Tag to LinkedIn -->
 [![Linkedin: Simon Höferlin](https://img.shields.io/badge/hoeferlin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoeferlin/)](https://www.linkedin.com/in/hoeferlin/)
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="30" height="30"/>
+
 <!-- Introduction -->
 # Hi there, I am Simon 👋
 
@@ -21,7 +29,7 @@
 
 #### Hi wonderful people, my name is Simon. I love all things digital. I enjoy building digital products with a team to help other people. To build means for me the entire spectrum from ideation, conceptualization, product management to actual coding and deployment.
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></img>
+
 
 Pronouns: 👨🏻‍💻 he/him<br>
 Mostly based in: 🥨 Munich<br>
@@ -74,6 +82,7 @@ and I speak ...
 
  ...
 * <b>Git</b> because alone we are so little
+* <b>Heroku</b> for deployment
 * <b>Selenium</b> for testing and scrapping
 * <b>Protractor</b> for e2e tests
 * <b>pandas</b> for data stuff
