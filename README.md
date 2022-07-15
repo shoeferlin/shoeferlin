@@ -14,13 +14,13 @@
 <!-- Tag to LinkedIn -->
 [![Linkedin: Simon Höferlin](https://img.shields.io/badge/hoeferlin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoeferlin/)](https://www.linkedin.com/in/hoeferlin/)
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>
+<p><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="30" height="30"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="30" height="30"/></p>
 
 <!-- Introduction -->
 # Hi there, I am Simon 👋
