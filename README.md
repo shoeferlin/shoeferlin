@@ -19,7 +19,7 @@
 
 ### I love building digital products  🤓
 
-#### Hi everyone, my name is Simon. I love all things digital. I enjoy building digital products with a team to help other people. To build means for me the entire spectrum from ideation, conceptualization, product management to actual coding and deployment.
+#### Hi wonderful people, my name is Simon. I love all things digital. I enjoy building digital products with a team to help other people. To build means for me the entire spectrum from ideation, conceptualization, product management to actual coding and deployment.
 
 Pronouns: 👨🏻‍💻 he/him<br>
 Mostly based in: 🥨 Munich<br>
