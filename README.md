@@ -8,7 +8,7 @@
 
 <!-- Memojy -->
 <div>
-  <img src="./assets/memojy.png" width="100"/>
+  <img src="./assets/memoji.png" width="100"/>
 </div>
 
 <!-- Tag to LinkedIn -->
