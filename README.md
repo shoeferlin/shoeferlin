@@ -21,6 +21,8 @@
 
 #### Hi wonderful people, my name is Simon. I love all things digital. I enjoy building digital products with a team to help other people. To build means for me the entire spectrum from ideation, conceptualization, product management to actual coding and deployment.
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></img>
+
 Pronouns: 👨🏻‍💻 he/him<br>
 Mostly based in: 🥨 Munich<br>
 Born at: 🌳 362.2 PPM CO2<br>
@@ -144,4 +146,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
