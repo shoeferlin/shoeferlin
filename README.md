@@ -1,7 +1,7 @@
 <!-- GITHUB PAGE SIMON HÖFERLIN -->
 
 <!-- Link to use devicons -->
-<link href='//cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css' rel='stylesheet'>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <!-- Cover picture showing view on Bay Area from Berkeley with San Francisco to the left and the Golden Gate bridge to right -->
 [![MasterHead](./assets/cover.jpeg)](https://github.com/shoeferlin)
