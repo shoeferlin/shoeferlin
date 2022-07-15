@@ -1,7 +1,7 @@
 <!-- GITHUB PAGE SIMON HÖFERLIN -->
 
 <!-- Link to use devicons -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<link href='//cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css' rel='stylesheet'>
 
 <!-- Cover picture showing view on Bay Area from Berkeley with San Francisco to the left and the Golden Gate bridge to right -->
 [![MasterHead](./assets/cover.jpeg)](https://github.com/shoeferlin)
@@ -13,14 +13,6 @@
 
 <!-- Tag to LinkedIn -->
 [![Linkedin: Simon Höferlin](https://img.shields.io/badge/hoeferlin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoeferlin/)](https://www.linkedin.com/in/hoeferlin/)
-
-<p><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="30" height="30"/></p>
 
 <!-- Introduction -->
 # Hi there, I am Simon 👋
@@ -56,6 +48,16 @@ How to reach me: ✉️ message me [here](https://www.linkedin.com/in/hoeferlin/
 
 
 ## 💻 Skills
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="30" height="30"/>
+</p>
 #### Languages
 
 * <i class="devicons devicons-javascript"></i><b> JavaScript</b> (with TypeScript) for frontends and backends 🦄
