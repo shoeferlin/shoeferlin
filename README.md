@@ -23,11 +23,8 @@
 
 
 Mostly based in: 🥨 Munich<br>
-Born in: 🌳 the 90s<br>
 How to reach me: ✉️ message me [here](https://www.linkedin.com/in/hoeferlin/) on LinkedIn<br>
-
-
-<b>Tell me: ☕️</b><br>How you found your purpose and profession 🌟<br> 
+Tell me: 🌟 How you found your purpose and profession<br>
 
 
 ## 🚀 Excerpt of Projects and Experiences
