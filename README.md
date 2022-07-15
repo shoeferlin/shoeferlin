@@ -17,7 +17,7 @@
 <!-- Introduction -->
 # Hi there, I am Simon 👋
 
-### I love building digital products  🤓
+### I love building digital products 🤓
 
 #### Hi wonderful people, my name is Simon. I love all things digital. I enjoy building digital products with a team to help other people. To build means for me the entire spectrum from ideation, conceptualization, product management to actual coding and deployment.
 
@@ -29,7 +29,7 @@ Born at: 🌳 362.2 PPM CO2<br>
 How to reach me: ✉️ message me [here](https://www.linkedin.com/in/hoeferlin/) on LinkedIn<br>
 
 
-<b>Tell me: ☕️</b><br>How you found your purpose and profession🌟 <br> 
+<b>Tell me: ☕️</b><br>How you found your purpose and profession 🌟<br> 
 
 
 ## 🚀 Excerpt of Projects and Experiences
