@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="./assets/memojy.png" width="100"/>
+</div>
+
 <!--
 **shoeferlin/shoeferlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
