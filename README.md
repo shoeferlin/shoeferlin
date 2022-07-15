@@ -6,16 +6,25 @@
 ### Hi there 👋
 # I am Simon
 
+I love building digital products.
+
+<!-- Tag to LinkedIn -->
+[![Linkedin: Simon Höferlin](https://img.shields.io/badge/hoeferlin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hoeferlin/)](https://www.linkedin.com/in/hoeferlin/)
 
 ### Languages and Tools:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoeferlin&theme=dracula&show_icons=true&count_private=true)](https://github.com/shoeferlin/github-readme-stats)
 
-<a href="https://github.com/shoeferlin" target="_blank"><img src="https://raw.githubusercontent.com/shoeferlin/shoeferlin/master/contain/www.png" alt="Website" width="30"></a>
 
+<!-- Card showing top most used languages --->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoeferlin&layout=compact)](https://github.com/shoeferlin/github-readme-stats)
+
+
+<!-- Tag counting profile visits -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoeferlin&color=brightgreen" alt="shoeferlin" /> </p>
-<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=shoeferlin&show_icons=true&theme=monokai&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoeferlin&theme=merko&layout=compact&hide_langs_below=1" /></p>
 
+
+<!-- Some inspiration from Github -->
 <!--
 **shoeferlin/shoeferlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
