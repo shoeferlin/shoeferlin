@@ -30,8 +30,8 @@ Tell me: 🌟 How you found your purpose and profession<br>
 ## 🚀 Excerpt of Projects and Experiences
 
 📌 currently ...<br>
-* product manager of patient web and mobile as well as practice application at (avi)[https://www.avimedical.com/] 
-* scrapping elevator data in Munich of public transportaion with (Anabathrum)[https://anabathrum.vercel.app/]
+* product manager of patient web and mobile as well as practice application at [avi](https://www.avimedical.com/)
+* scrapping elevator data in Munich of public transportaion with [Anabathrum|([https://anabathrum.vercel.app/)
 
 
 ⚓️ completed ...<br>
