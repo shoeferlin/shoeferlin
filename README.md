@@ -30,11 +30,12 @@ Tell me: 🌟 How you found your purpose and profession<br>
 ## 🚀 Excerpt of Projects and Experiences
 
 📌 currently ...<br>
+* product manager of patient web and mobile as well as practice application at (avi)[https://www.avimedical.com/] 
+* scrapping elevator data in Munich of public transportaion with (Anabathrum)[https://anabathrum.vercel.app/]
 
-* building a Google Chrome Extension to foster a better climate in online discussion sections for my master thesis 
-(Google Chrome Extension, TypeScript, webpacker, React, Perspective API)
 
 ⚓️ completed ...<br>
+* building a Google Chrome Extension to foster a better climate in online discussion sections for my master thesis (Google Chrome Extension, TypeScript, webpacker, React, Perspective API)
 * led the development (with Ruby on Rails) of a short story submission platform for a literature competition named [Zukunftschreiben](https://www.zukunftschreiben.org)
 * designed and implemented (with WordPress) a new website for the student union [Wasti](https://www.wasti-lmu.de)
 * managed healthcare software as Interim Product Manager at [Climedo](https://www.climedo.de)
