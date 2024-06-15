@@ -35,7 +35,7 @@ Tell me: 🌟 How you found your purpose and profession<br>
 
 
 ⚓️ completed ...<br>
-* building a Google Chrome Extension to foster a better climate in online discussion sections for my master thesis (Google Chrome Extension, TypeScript, webpacker, React, Perspective API)
+* built a Google Chrome Extension to foster a better climate in online discussion sections for my master thesis (Google Chrome Extension, TypeScript, webpacker, React, Perspective API)
 * led the development (with Ruby on Rails) of a short story submission platform for a literature competition named [Zukunftschreiben](https://www.zukunftschreiben.org)
 * designed and implemented (with WordPress) a new website for the student union [Wasti](https://www.wasti-lmu.de)
 * managed healthcare software as Interim Product Manager at [Climedo](https://www.climedo.de)
