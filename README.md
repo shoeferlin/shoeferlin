@@ -30,15 +30,17 @@ Tell me: 🌟 How you found your purpose and profession<br>
 ## 🚀 Excerpt of Projects and Experiences
 
 📌 currently ...<br>
-* product manager of patient web and mobile as well as practice application at [avi](https://www.avimedical.com/)
+* product manager of the patient web and mobile as well as practice application at [avi](https://www.avimedical.com/)
   * Tickets for Product Management with Atlassian's Jira and Product Discovery tools
   * Business Intelligence (BI) analysis with SQL, Snowflake, and Metabase
   * Configurations with AppSmith
   * Small frontend changes with TypeScript
   * Designs with Figma
-* scrapping elevator data in Munich of public transportation with [Anabathrum](https://anabathrum.vercel.app/)
-  * 
-
+* scrapping up-time availability data of train station elevators of the public transportation of Munich with [Anabathrum](https://anabathrum.vercel.app/)
+  * NestJS for the backend
+  * NextJS for the frontend
+  * Supabase as database
+  * Heroku for hosting
 
 ⚓️ completed ...<br>
 * built a Google Chrome Extension to foster a better climate in online discussion sections for my master thesis (Google Chrome Extension, TypeScript, webpacker, React, Perspective API)
