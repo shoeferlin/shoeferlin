@@ -19,10 +19,10 @@
 
 ### I love building digital products 🤓
 
-#### Hi wonderful people, my name is Simon. I love all things digital. I enjoy building digital products with a team to help other people. To build means for me the entire spectrum from ideation, conceptualization, product management to actual coding and deployment.
+#### Hi peeps, my name is Simon. I love all things digital. I enjoy building digital products in a team to enable other people. To build means for me the entire spectrum from ideation, conceptualization, and product management to actual coding and deployment.
 
 
-Mostly based in: 🥨 Munich<br>
+Mostly based in: 🥨 Munich, sometimes 🇩🇪 Berlin, 🇦🇹 Vienna or the 🌉 Bay Area<be>
 How to reach me: ✉️ message me [here](https://www.linkedin.com/in/hoeferlin/) on LinkedIn<br>
 Tell me: 🌟 How you found your purpose and profession<br>
 
@@ -31,7 +31,13 @@ Tell me: 🌟 How you found your purpose and profession<br>
 
 📌 currently ...<br>
 * product manager of patient web and mobile as well as practice application at [avi](https://www.avimedical.com/)
-* scrapping elevator data in Munich of public transportaion with [Anabathrum](https://anabathrum.vercel.app/)
+  * Tickets for Product Management with Atlassian's Jira and Product Discovery tolls
+  * Business Intelligence (BI) analysis with SQL, Snowflake, Metabase
+  * Configurations with AppSmith
+  * Small frontend changes with TypeScript
+  * Designs with Figma
+* scrapping elevator data in Munich of public transportation with [Anabathrum](https://anabathrum.vercel.app/)
+  * 
 
 
 ⚓️ completed ...<br>
@@ -46,6 +52,7 @@ Tell me: 🌟 How you found your purpose and profession<br>
 ## 💻 Skills
 
 <p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="SQL" alt="SQL" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="30" height="30"/>
