@@ -3,7 +3,7 @@
 <!-- Link to use devicons -->
 <link href='//cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css' rel='stylesheet'>
 
-<!-- Cover picture showing view on Bay Area from Berkeley with San Francisco to the left and the Golden Gate bridge to right -->
+<!-- Cover picture showing the view on the Bay Area from Berkeley with San Francisco to the left and the Golden Gate Bridge to the right -->
 [![MasterHead](./assets/cover.jpeg)](https://github.com/shoeferlin)
 
 <!-- Memojy -->
@@ -31,8 +31,8 @@ Tell me: 🌟 How you found your purpose and profession<br>
 
 📌 currently ...<br>
 * product manager of patient web and mobile as well as practice application at [avi](https://www.avimedical.com/)
-  * Tickets for Product Management with Atlassian's Jira and Product Discovery tolls
-  * Business Intelligence (BI) analysis with SQL, Snowflake, Metabase
+  * Tickets for Product Management with Atlassian's Jira and Product Discovery tools
+  * Business Intelligence (BI) analysis with SQL, Snowflake, and Metabase
   * Configurations with AppSmith
   * Small frontend changes with TypeScript
   * Designs with Figma
