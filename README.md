@@ -22,7 +22,7 @@
 #### Hi peeps, my name is Simon. I love all things digital. I enjoy building digital products in a team to enable other people. To build means for me the entire spectrum from ideation, conceptualization, and product management to actual coding and deployment.
 
 
-Mostly based in: 🥨 Munich, sometimes 🇩🇪 Berlin, 🇦🇹 Vienna or the 🌉 Bay Area<be>
+Mostly based in: 🥨 Munich, sometimes 🇩🇪 Berlin or the 🌉 Bay Area<be>
 How to reach me: ✉️ message me [here](https://www.linkedin.com/in/hoeferlin/) on LinkedIn<br>
 Tell me: 🌟 How you found your purpose and profession<br>
 
