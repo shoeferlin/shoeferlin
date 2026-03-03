@@ -30,12 +30,7 @@ Tell me: 🌟 How you found your purpose and profession<br>
 ## 🚀 Excerpt of Projects and Experiences
 
 📌 currently ...<br>
-* product manager of the patient web and mobile as well as practice application at [avi](https://www.avimedical.com/)
-  * Tickets for Product Management with Atlassian's Jira and Product Discovery tools
-  * Business Intelligence (BI) analysis with SQL, Snowflake, and Metabase
-  * Configurations with AppSmith
-  * Small frontend changes with TypeScript
-  * Designs with Figma
+* consultant at McKinsey Digital & Analytics / Quantum Black (data science, IT-transformations)
 * scrapping up-time availability data of train station elevators of the public transportation of Munich with [Anabathrum](https://anabathrum.vercel.app/)
   * NestJS for the backend
   * NextJS for the frontend
@@ -43,6 +38,12 @@ Tell me: 🌟 How you found your purpose and profession<br>
   * Heroku for hosting
 
 ⚓️ completed ...<br>
+* product manager of the patient web and mobile as well as practice application at [avi](https://www.avimedical.com/)
+  * Tickets for Product Management with Atlassian's Jira and Product Discovery tools
+  * Business Intelligence (BI) analysis with SQL, Snowflake, and Metabase
+  * Configurations with AppSmith
+  * Small frontend changes with TypeScript
+  * Designs with Figma
 * built a Google Chrome Extension to foster a better climate in online discussion sections for my master thesis (Google Chrome Extension, TypeScript, webpacker, React, Perspective API)
 * led the development (with Ruby on Rails) of a short story submission platform for a literature competition named [Zukunftschreiben](https://www.zukunftschreiben.org)
 * designed and implemented (with WordPress) a new website for the student union [Wasti](https://www.wasti-lmu.de)
